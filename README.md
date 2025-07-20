@@ -53,6 +53,3 @@ The production-ready files will be in the `dist/` directory. Follow your hosting
 
 If your hosting provider supports custom domains, follow their documentation to connect your domain to your deployed site.
 
-## License
-
-This project is provided as-is for internal use. Please update this section with your preferred license if needed.
